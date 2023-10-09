@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">scan-test-app</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">För avkänning krävs åtkomst till kameran</string>
+    <string name="no_camera_permission">Den här applikationen kan inte köras eftersom den inte har åtkomst till kameran. Applikationen kommer att stängas.</string>
+    <string name="no_cameras_found">Enheten har ingen kamera.</string>
+    <string name="barcode_header">Klicka på "Läs streckkod" för att läsa en streckkod</string>
+    <string name="read_barcode">Läs streckkod</string>
+    <string name="auto_focus">Autofokus</string>
+    <string name="use_flash">Använd blixt</string>
+    <string name="barcode_success">Streckkod läst framgångsrikt</string>
+    <string name="barcode_failure">Ingen streckkod fångades</string>
+    <string name="barcode_error">Fel vid läsning av streckkod: %1$s</string>
+</resources>
